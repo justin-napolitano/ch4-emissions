@@ -3,7 +3,7 @@
 
 ## About
 
-Rice Paddies produce about 8 percent of global methane emissions. In this report I identify the greatest contributors to harmful emssions and compares estimation methodologies.  
+Rice Paddies produce about 8 percent of global methane emissions. In this report I identify the greatest contributors to harmful emssions and compare estimation methodologies.  
 
 ## Inspiration
 
