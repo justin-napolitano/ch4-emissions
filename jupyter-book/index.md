@@ -1,14 +1,15 @@
 # Introduction 
 
 
-## Sections
+## About
 
-You will find code and no code blog post examples, data exploration/preperation notebooks that I kept to document my thinking, and an analysis of the University of Malaysia paper provided to me.  
- 
-The scripts I used to prepare the data are found in the data exploration section
+Rice Paddies produce about 8 percent of global methane emissions. In this report I identify the greatest contributors to harmful emssions and compares estimation methodologies.  
 
+## Inspiration
 
-Check out my work below.
+The University of Malaysia prepared a report that stated that the UN under reports methane emissions by about 16 percent.  I found their methodology to be wanting.  I therefore tested the report by recreating their papers and testing across multiple distributions.  
+
+You will find that work along with a blog post summarizing my findings below:
 
 
 ```{tableofcontents}
