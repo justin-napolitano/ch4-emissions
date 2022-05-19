@@ -8,17 +8,6 @@
 # * That the distributions do not differ between 2020 and 2019
 # * That the means do no differ between 2020 and 2019
 
-# ## What will be testing.  
-# 
-# * That the Data are independent and evenly distributed: Test for normality
-#     * Shapiro-Wilk Test
-# * That the means between 2019 and 2020 do not differ: Parametric Statistical Hypothesis Tests
-#     * T Test because we have less than 25 observations
-# * If nonparametirc: That the distributions between 2019 and 2020 do not differ
-#     Mann-Whitney U Test
-# 
-# 
-
 # ## Data Import
 
 # In[1]:

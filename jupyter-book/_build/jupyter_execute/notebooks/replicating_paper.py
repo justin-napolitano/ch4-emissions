@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Replicating the University of Malysia Paper.  
+# # Replicating the University of Malaysia Paper.  
 
 # ## Imports
 
