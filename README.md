@@ -71,11 +71,6 @@ ch4-emissions/
 ## Future Work / Roadmap
 
 - Add detailed documentation and descriptions for each notebook.
-- Automate data updates and integrate with live data sources.
-- Enhance visualizations with interactive maps and dashboards.
-- Extend analysis to other methane emission sources beyond rice paddies.
-- Deploy the Jupyter Book site with continuous integration for live updates.
-
----
-
-*Note: Some assumptions were made regarding the website directory and data files based on typical project structures.*
+- Expand the geospatial analysis with more datasets.
+- Improve automation scripts for deployment.
+- Integrate more robust testing and validation of emission models.
