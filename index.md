@@ -21,6 +21,14 @@ seoSecondaryKeywords:
   - jupyter book
   - geospatial analysis
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses extensively on data analysis workflows including geospatial analysis, statistical
+  testing, Jupyter Book structured notebooks, and data science tools like pandas, geopandas, and
+  scipy. The subject matter fits squarely within the datascience family, and the explicit slug match
+  ('github-ch4-emissions') confirms this. While automation aspects exist, they support the data
+  science workflow rather than being the main focus.
 ---
 
 # CH4 Emissions Analysis: Technical Overview
@@ -65,3 +73,4 @@ Automation is handled via a Python script (`python_build.py`) that installs depe
 This project provides a reproducible framework for analyzing methane emissions from rice paddies, combining data science, geospatial analysis, and statistical testing. It serves as a reference implementation for validating emission estimates and exploring methodological discrepancies in environmental data reporting. The Jupyter Book format facilitates documentation and dissemination of findings.
 
 Future work should focus on improving data accessibility, expanding analyses, and enhancing automation for deployment and continuous integration.
+
