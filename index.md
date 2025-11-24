@@ -1,12 +1,27 @@
 ---
-slug: "github-ch4-emissions"
-title: "ch4-emissions"
-repo: "justin-napolitano/ch4-emissions"
-githubUrl: "https://github.com/justin-napolitano/ch4-emissions"
-generatedAt: "2025-11-23T08:41:33.175740Z"
-source: "github-auto"
+slug: github-ch4-emissions
+title: Methane Emissions Analysis from Rice Paddies with Jupyter Book
+repo: justin-napolitano/ch4-emissions
+githubUrl: https://github.com/justin-napolitano/ch4-emissions
+generatedAt: '2025-11-23T08:41:33.175740Z'
+source: github-auto
+summary: >-
+  Reproducible analysis of methane (CH4) emissions from rice paddies using data science, geospatial
+  methods, and statistical testing in a Jupyter Book project.
+tags:
+  - methane
+  - ch4-emissions
+  - geospatial-analysis
+  - jupyter-book
+  - climate-data
+  - statistical-testing
+seoPrimaryKeyword: methane emissions
+seoSecondaryKeywords:
+  - ch4 emissions
+  - jupyter book
+  - geospatial analysis
+seoOptimized: true
 ---
-
 
 # CH4 Emissions Analysis: Technical Overview
 
