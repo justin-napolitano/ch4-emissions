@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/ch4-emissions
 generatedAt: '2025-11-24T21:34:09.360Z'
 source: github-auto
 summary: >-
-  Explore a Jupyter Book project focused on analyzing methane emissions from
-  rice paddies through data exploration and geospatial analysis.
+  Explore a Jupyter Book project focused on analyzing methane emissions from rice paddies through
+  data exploration and geospatial analysis.
 tags:
   - jupyter book
   - python
@@ -29,8 +29,8 @@ seoSecondaryKeywords:
   - geospatial analysis
   - automated build pipeline
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -113,4 +113,5 @@ ch4-emissions/
 - Expand the geospatial analysis with more datasets.
 - Improve automation scripts for deployment.
 - Integrate more robust testing and validation of emission models.
+
 
