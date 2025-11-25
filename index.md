@@ -1,13 +1,13 @@
 ---
 slug: github-ch4-emissions
-title: Methane Emissions Analysis from Rice Paddies with Jupyter Book
+title: CH4 Emissions Analysis with Jupyter Book and Python
 repo: justin-napolitano/ch4-emissions
 githubUrl: https://github.com/justin-napolitano/ch4-emissions
 generatedAt: '2025-11-23T08:41:33.175740Z'
 source: github-auto
 summary: >-
-  Reproducible analysis of methane (CH4) emissions from rice paddies using data science, geospatial
-  methods, and statistical testing in a Jupyter Book project.
+  This project analyzes methane emissions from rice paddies using Jupyter Book,
+  focusing on data sources, statistical testing, and geospatial analysis.
 tags:
   - methane
   - ch4-emissions
@@ -15,20 +15,31 @@ tags:
   - jupyter-book
   - climate-data
   - statistical-testing
-seoPrimaryKeyword: methane emissions
+  - python
+  - geospatial
+  - pandas
+  - folium
+seoPrimaryKeyword: methane emissions analysis
 seoSecondaryKeywords:
-  - ch4 emissions
-  - jupyter book
+  - Jupyter Book project
+  - data visualization
+  - statistical methods
   - geospatial analysis
+  - FAOSTAT data
+  - climate TRACE
+  - emission estimates
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses extensively on data analysis workflows including geospatial analysis, statistical
-  testing, Jupyter Book structured notebooks, and data science tools like pandas, geopandas, and
-  scipy. The subject matter fits squarely within the datascience family, and the explicit slug match
-  ('github-ch4-emissions') confirms this. While automation aspects exist, they support the data
-  science workflow rather than being the main focus.
+  The post focuses extensively on data analysis workflows including geospatial
+  analysis, statistical testing, Jupyter Book structured notebooks, and data
+  science tools like pandas, geopandas, and scipy. The subject matter fits
+  squarely within the datascience family, and the explicit slug match
+  ('github-ch4-emissions') confirms this. While automation aspects exist, they
+  support the data science workflow rather than being the main focus.
+kind: project
+id: github-ch4-emissions
 ---
 
 # CH4 Emissions Analysis: Technical Overview
