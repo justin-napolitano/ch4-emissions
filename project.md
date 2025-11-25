@@ -1,14 +1,14 @@
 ---
 slug: github-ch4-emissions
 id: github-ch4-emissions
-title: Analyzing Global Methane Emissions with Jupyter Book
+title: Analyzing Global CH4 Emissions with Jupyter Book
 repo: justin-napolitano/ch4-emissions
 githubUrl: https://github.com/justin-napolitano/ch4-emissions
 generatedAt: '2025-11-24T21:34:09.360Z'
 source: github-auto
 summary: >-
-  Explore methane emissions from rice paddies through data analysis,
-  visualization, and hypothesis testing using Jupyter Book.
+  Explore a Jupyter Book project focused on analyzing methane emissions from
+  rice paddies through data exploration and geospatial analysis.
 tags:
   - jupyter book
   - python
@@ -17,12 +17,16 @@ tags:
   - pandas
   - matplotlib
   - scipy
-seoPrimaryKeyword: global methane emissions analysis
+  - jupyter
+  - geospatial
+  - methane emissions
+  - geopandas
+seoPrimaryKeyword: jupyter book methane emissions analysis
 seoSecondaryKeywords:
-  - Jupyter Notebooks
+  - global methane emissions
   - data visualization
   - hypothesis testing
-  - geospatial mapping
+  - geospatial analysis
   - automated build pipeline
 seoOptimized: true
 topicFamily: null
